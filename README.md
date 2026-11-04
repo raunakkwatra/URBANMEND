@@ -19,8 +19,4 @@ The technology stack depends on the project's actual implementation and configur
 ## Vision
 To transform scattered civic complaints into actionable urban intelligence, helping cities make more informed decisions and improve public services.
 
-## Brand Identity
-- Dark Sage Green: `#3B4743`
-- Warm Beige: `#E2DED5`
-
 **UrbanMend — Turning civic reports into actionable urban intelligence.**
